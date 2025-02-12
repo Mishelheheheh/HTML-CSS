@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url(mishi.jpg);
+    color: white;
+    margin: 0;
+    padding: 0;
+    
+}
+.logo {
+    height: 100px;
+    display: flex;  
+    border-radius: 120px;
+}
+.header {
+    margin-top: 28px;
+}
+
+header {
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+    background: rgb(20, 14, 1);
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.coffee-heading {
+    text-align: center;
+    color: rgb(20, 14, 1) ;
+    margin: 20px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+p {
+    color: black;
+}
+
+
+.coffee {
+    display: flex;
+    gap: 3px;
+    margin: 5;
+    
+}
+
+.coffee-text {
+    text-align: center;
+}
+
+.class img {
+    width: 200px;
+    border-radius: 10px;
+}
